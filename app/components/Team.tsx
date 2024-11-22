@@ -49,7 +49,7 @@ const Team = () => {
           <p className="text-sm text-black mb-4">Nursing Assistant</p>
           <div className="flex justify-center space-x-4">
             <a href="/" aria-label="LinkedIn">
-              <Image src="/images/linkedIn.svg" alt="LinkedIn" width={24} height={24} />
+              <Image src="/images/LinkedIn.svg" alt="LinkedIn" width={24} height={24} />
             </a>
             <a href="/" aria-label="Twitter">
               <Image src="/images/Twitter.svg" alt="Twitter" width={24} height={24} />
